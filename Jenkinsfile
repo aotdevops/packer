@@ -23,7 +23,7 @@ node{
     }
 
     def tfvar = """
-    s3_bucket = "jenkins-terraform-evolvecybertraining"
+    s3_bucket = "myjenkinsbucket2021
     s3_folder_project = "terraform_ec2"
     s3_folder_region = "us-east-1"
     s3_folder_type = "class"
